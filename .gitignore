@@ -1,0 +1,34 @@
+#################################################
+#############   .GITIGNORE FILE  ################
+#################################################
+
+# dependency caches, such as the contents of
+# /node_modules or /packages
+
+# compiled code, such as:
+.o
+.pyc
+.class
+
+# build output directories, such as:
+/bin
+/out
+/target
+
+# files generated at runtime, such as:
+.log
+.lock
+.tmp
+
+# hidden system files, such as:
+.DS_Store
+Thumbs.db
+
+# personal IDE config files, such as:
+.idea/
+.idea/workspace.xml
+__pycache__
+__pycache__/
+
+# Jupyter Checkpoints
+.ipynb_checkpoints

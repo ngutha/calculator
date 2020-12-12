@@ -3,3 +3,4 @@ build\run.bat
 
 # Run unit test using below command from root folder
 python -m pytest -v test/unit_tests/test_add.py
+python -m pytest -v test/unit_tests/test_division.py

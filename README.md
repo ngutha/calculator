@@ -1,2 +1,5 @@
-# Run using below command
+# Run app using below command from root foler
 build\run.bat
+
+# Run unit test using below command from root folder
+python -m pytest -v test/unit_tests/test_add.py
